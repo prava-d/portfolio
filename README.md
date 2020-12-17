@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/prava-d/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am a graduate at Olin College of Engineering with a B.S. in Electrical and Computer Engineering (with a specific focus in software engineering). I keep the most up-to-date information about my projects here, but you can also refer to my resume(TODO) and LinkedIn page(TODO).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Markdown
 
-### Markdown
+## Main Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Robotic Gripper
 
-```markdown
-Syntax highlighted code block
+### Clew App
 
-# Header 1
-## Header 2
-### Header 3
+### Sudoku Solver
 
-- Bulleted
-- List
+### FisherFaces
 
-1. Numbered
-2. List
+### Convolutional Codes
 
-**Bold** and _Italic_ and `Code` text
+### Unix Shell
 
-[Link](url) and ![Image](src)
-```
+### Peer2Peer Ram
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Smaller Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prava-d/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Baby Warmer
 
-### Support or Contact
+### Sleep Stalking
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Inverted Pendulum
+
+### ScreamGame
+
+### Digging Deeper
+
+### Varied Python Projects
+
+### Varied Neato Projects
+
+### Varied Multidisciplinary Projects
+
+### Varied Data Science Projects
+
+### Varied Computer Architecture Projects
+
+### Varied Analog and Digitial Communications Projects
+
+### Gilbert Cell Mixer
+
+### Computer Networks: APL
+
+## Research, Teams, and Other
+
+### OARS
+
+### ORCAS
+
+### Visible Light Communication Research
+
+### Student-Led Classes
+
+### Varied STEM Education Roles
+
+### RamseyRating
+
+### Google Games
+
+### Varied RoboLab Research
+
+### Brain-Computer Interfacing Research
+
