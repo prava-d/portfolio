@@ -8,6 +8,8 @@ Hello! I am a graduate at Olin College of Engineering with a B.S. in Electrical 
 
 ### Robotic Gripper
 
+A team of four of my peers and I (a group comprised of mechanical and software engineers)
+
 http://poe.olin.edu/2017/Tenacity/index.html
 https://github.com/prava-d/RoboticArm
 
@@ -96,6 +98,10 @@ https://github.com/prava-d/portfolio/blob/main/Reports/Data%20Science%20Final%20
 
 ### Varied Computer Architecture Projects
 
+ALU - https://github.com/arianaolson419/Lab1
+SPI Memory - https://github.com/arianaolson419/Lab2
+CPU - https://github.com/prava-d/portfolio/blob/main/Reports/CompArch%20Lab3%20WriteUp.pdf
+Intercon Network - https://github.com/KaitlynKeil/InterconNetwork
 
 
 ### Varied Analog and Digitial Communications Projects
@@ -109,22 +115,23 @@ https://github.com/prava-d/portfolio/blob/main/Reports/Gilbert_Cell_Mixer.pdf
 
 ### Computer Networks: APL
 
+
 https://github.com/prava-d/portfolio/blob/main/Reports/Final%20CompNet%20Presentation.pdf
 
 ## Research, Teams, and Other
 
 ### ORCAS
 
-https://github.com/olinrobotics/orcas/wiki
+My main involvement in the robotics lab was a team working on autonomous submersible platforms, called [ORCAS](https://github.com/olinrobotics/orcas/wiki). My responsibilities were primarily electrical or software tasks, including maintaining the electrical system as well as testing and updating older code.
 
 ### OARS
 
-https://meet.olin.edu/olin-isms/olin-aquatic-robot-systems-oars
+I was a lead for the [OARS](https://meet.olin.edu/olin-isms/olin-aquatic-robot-systems-oars) Project team at Olin for the electrical subteam, but I also occasionally helped OARS leadership and the software subteam with their tasks.
 
 ### Visible Light Communication Research
 
-https://ieeexplore.ieee.org/document/8862074
-https://ieeexplore.ieee.org/document/9217371
+I assisted Professor Siddhartan Govindasamy in visible light communications research, utilizing various electrical (firmware, communications) and software skills (modeling, algorithms). This research aided the publication of two papers: [An Integrated Visible-Light and Radio Frequency Communications System](https://ieeexplore.ieee.org/document/8862074
+) and [An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System](https://ieeexplore.ieee.org/document/9217371).
 
 ### Student-Led Classes
 
@@ -148,11 +155,8 @@ I was able to compete in the [Google Tech Challenge](https://buildyourfuture.wit
 
 ### Varied RoboLab Research
 
-Edwin - https://github.com/olinrobotics/edwin_description
-https://github.com/olinrobotics/edwin_oak
-
-Lavabot - https://github.com/olinrobotics/Lavabot
+Other than ORCAS, I was also briefly involved in [Edwin](https://github.com/olinrobotics/hiro) and [Lavabot](https://github.com/olinrobotics/Lavabot). The former specializes in research in the human-robot interaction field and the latter 
 
 ### Brain-Computer Interfacing Research
 
-Working with a professor to continue research into brain-conputer interfacing. My specific subteam is working on "Robots" - working on communication between Neato robots and on EEG. Specific skills included in this project involve experimental design, signal processing, machine learning, and data analysis. My involvement mostly centered around reading research papers and keeping a research journal (which has unfortunately since been deleted).
+I worked with a professor to continue research into brain-conputer interfacing. My specific subteam was "Robots" - working on communication between Neato robots and on EEG. Specific skills included in this project involved experimental design, signal processing, machine learning, and data analysis. My involvement mostly centered around reading research papers and keeping a research journal (which has unfortunately since been deleted).
