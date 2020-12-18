@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Prava Dhulipalla's Portfolio
 description: Hello! I am a graduate at Olin College of Engineering with a B.S. in Electrical and Computer Engineering (with a specific focus in software engineering). I keep the most up-to-date information about my projects here, but you can also refer to my resume and LinkedIn page.
+
+layout: page
+title: "Major Projects"
+permalink: /major-projects/
