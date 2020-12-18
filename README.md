@@ -46,9 +46,16 @@ https://github.com/anushadatar/SoftSysThinkGridWorld/blob/master/reports/report.
 
 ### Baby Warmer
 
+https://github.com/prava-d/portfolio/blob/main/Reports/Baby_Warmer.pdf
+
 ### Sleep Stalking
 
+https://github.com/allisonlynnbasore14/SleepAnalysis
+https://allisonlynnbasore14.github.io/SleepAnalysis/#myHeader
+
 ### Inverted Pendulum
+
+https://github.com/prava-d/portfolio/blob/main/Reports/Segway%20Olympics.pdf
 
 ## Database B+ Tree
 
@@ -57,24 +64,28 @@ https://github.com/prava-d/portfolio/blob/main/Reports/Databases_report.pdf
 
 ### Digging Deeper
 
+https://github.com/prava-d/portfolio/blob/main/Reports/Personal_int_map.pdf
+https://github.com/prava-d/portfolio/blob/main/Reports/Requirements_Chart_Final.pdf
+https://github.com/prava-d/portfolio/blob/main/Reports/final_poster.pdf
+
 ### Varied Python Projects
 
-GeneFinder - 
-Computational Art - 
-Text Mining - 
-Interactive Programming - 
+GeneFinder - https://github.com/prava-d/GeneFinder
+Computational Art - https://github.com/prava-d/ComputationalArt
+Text Mining - https://github.com/prava-d/TextMining
+Interactive Programming - https://github.com/prava-d/InteractiveProgramming
 
 ### Varied Neato Projects
 
-Bridge of Death - 
-Mount Doom - 
-The Gauntlet - 
+Bridge of Death - https://github.com/prava-d/portfolio/blob/main/Reports/BridgeOfDeathDeliverable.pdf
+Mount Doom - https://github.com/prava-d/portfolio/blob/main/Reports/Mount_Doom_Write_Up.pdf
+The Gauntlet - https://github.com/prava-d/portfolio/blob/main/Reports/Gauntlet_Write_Up.pdf
 
 ### Varied Multidisciplinary Projects
 
-Bike Light - 
-3D Scanner -
-Line Following - 
+Bike Light - https://github.com/prava-d/portfolio/blob/main/Reports/Bikelight_Lab.pdf
+3D Scanner - https://github.com/prava-d/portfolio/blob/main/Reports/3D_Scanner_Lab.pdf
+Line Following - https://github.com/prava-d/portfolio/blob/main/Reports/Section1%2CLab3-Meaghen%26Prava.pdf
 
 ### Varied Data Science Projects
 
@@ -137,5 +148,11 @@ I was able to compete in the [Google Tech Challenge](https://buildyourfuture.wit
 
 ### Varied RoboLab Research
 
+Edwin - https://github.com/olinrobotics/edwin_description
+https://github.com/olinrobotics/edwin_oak
+
+Lavabot - https://github.com/olinrobotics/Lavabot
+
 ### Brain-Computer Interfacing Research
 
+Working with a professor to continue research into brain-conputer interfacing. My specific subteam is working on "Robots" - working on communication between Neato robots and on EEG. Specific skills included in this project involve experimental design, signal processing, machine learning, and data analysis. My involvement mostly centered around reading research papers and keeping a research journal (which has unfortunately since been deleted).
