@@ -1,3 +1,7 @@
+**[Major Projects](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Minor Projects](minorprojects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Research and Teams](other.md)**
+
+--------------------------------
+
 # Minor Projects
 
 ## Sleep Stalking
