@@ -1,4 +1,6 @@
-# [Major Projects](https://prava-d.github.io/portfolio/) [Minor Projects](minorprojects.md) [Other Research and Teams](other.md)
+**[Major Projects](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Minor Projects](minorprojects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Research and Teams](other.md)**
+
+--------------------------------
 
 # Major Projects
 
