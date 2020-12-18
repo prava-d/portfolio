@@ -4,9 +4,15 @@
 
 # Other Research and Teams
 
+## Student-Led Classes
+
+In junior year, I had the opportunity to teach a student-led Data Structures and Algorithms (DSA) class. It was a class I had took prior, and I was excited about the prospect of teaching a new set of students important skills, as well as having a hand in developing the curriculum further.
+
+In senior year, a peer and I created a student-led class that we called 'Advanced Algorithms,' specifically catered to those who took DSA and wanted to learn other algorithms. For a year we studied the subject more deeply, created a curriculum, made assignments, and then eventually taught and graded the class. This also conveniently aligned with our humanities capstone, in which we expounded our experiences and advice towards **[student-led classes at Olin](https://pravaolin.wixsite.com/olinslc)**.
+
 ## ORCAS
 
-My main involvement in the robotics lab was a team working on autonomous submersible platforms, called **[ORCAS](https://github.com/olinrobotics/orcas/wiki)**. My responsibilities were primarily electrical or software tasks, including maintaining the electrical system as well as testing and updating older code.
+My main involvement in the robotics lab was a team working on autonomous submersible platforms, called **[ORCAS](https://github.com/olinrobotics/orcas/wiki)**. My responsibilities were primarily electrical, firmware, and software tasks, including maintaining the electrical system, updating defunct Python code into C, and writing autonomous control code.
 
 ## OARS
 
@@ -16,11 +22,6 @@ I was a lead for the **[OARS](https://meet.olin.edu/olin-isms/olin-aquatic-robot
 
 I assisted Professor Siddhartan Govindasamy in visible light communications research, utilizing various electrical (firmware, communications) and software skills (modeling, algorithms). This research aided the publication of two papers: **_[An Integrated Visible-Light and Radio Frequency Communications System](https://ieeexplore.ieee.org/document/8862074)_** and **_[An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System](https://ieeexplore.ieee.org/document/9217371)_**.
 
-## Student-Led Classes
-
-In junior year, I had the opportunity to teach a student-led Data Structures and Algorithms (DSA) class. It was a class I had took prior, and I was excited about the prospect of teaching a new set of students important skills, as well as having a hand in developing the curriculum further.
-
-In senior year, a peer and I created a student-led class that we called 'Advanced Algorithms,' specifically catered to those who took DSA and wanted to learn other algorithms. For a year we studied the subject more deeply, created a curriculum, made assignments, and then eventually taught and graded the class. This also conveniently aligned with our humanities capstone, in which we expounded our experiences and advice towards **[student-led classes at Olin](https://pravaolin.wixsite.com/olinslc)**.
 
 ## Varied STEM Education Roles
 
