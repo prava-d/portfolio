@@ -38,37 +38,31 @@ Four our discrete mathematics final, a team of students and I created a convolut
 We created our own UNIX shell in C with support for standard commands, piping/redirection/globbing, and a variety of easter eggs including a LISP interpreter and a text editor.
 The report and the code for this project can be viewed [here](https://github.com/anushadatar/SoftSysThinkGridWorld).
 
-## Smaller Projects
+## Minor Projects
 
 ### Baby Warmer
 
-https://github.com/prava-d/portfolio/blob/main/Reports/Baby_Warmer.pdf
+We modelled and experimented with PI control and temperature disruptions (in Mathematica and Arduino C) to create a [design recommendation report](https://github.com/prava-d/portfolio/blob/main/Reports/Baby_Warmer.pdf) on the most effective methodology to create a safe and suitable baby warmer.
 
 ### Sleep Stalking
-https://github.com/allisonlynnbasore14/SleepAnalysis
-https://allisonlynnbasore14.github.io/SleepAnalysis/#myHeader
+
+Using phone accelerometer data and machine learning, we made a algorithm to perform sleeping safety analysis. We largely based the algorithm, written in Matlab, on fisherfaces. It was a fairly accurate method of differentiating movement patterns of a person sleeping or not sleeping simply using a phone. the code for [Sleep Stalking](https://github.com/allisonlynnbasore14/SleepAnalysis) can be viewed (here)[https://allisonlynnbasore14.github.io/SleepAnalysis/#myHeader].
 
 ### Inverted Pendulum
 
-https://github.com/prava-d/portfolio/blob/main/Reports/Segway%20Olympics.pdf
+To study the dynamics of an inverted pendulum, we balanced a small segway. This project relyed upon PID control and Mathematica modelling, while the actual code was written in Arduino C. The report can be viewed [here](https://github.com/prava-d/portfolio/blob/main/Reports/Segway%20Olympics.pdf).
 
-## Database B+ Tree
+### Database B+ Tree
 
-https://github.com/prava-d/Databases/projectBplustree
-https://github.com/prava-d/portfolio/blob/main/Reports/Databases_report.pdf
+We explored the use of B+ trees in database management systems. We set out to implement a B+ tree data structure in Python, as well as searching, insertion, and deletion. Our report can be viewed [here](https://github.com/prava-d/portfolio/blob/main/Reports/Databases_report.pdf) and our code can be viewed [here](https://github.com/prava-d/Databases/projectBplustree.py).
 
 ### Digging Deeper
 
-https://github.com/prava-d/portfolio/blob/main/Reports/Personal_int_map.pdf
-https://github.com/prava-d/portfolio/blob/main/Reports/Requirements_Chart_Final.pdf
-https://github.com/prava-d/portfolio/blob/main/Reports/final_poster.pdf
+I and four other students conceptualized [Digging Deeper](https://github.com/prava-d/portfolio/blob/main/Reports/final_poster.pdf) as a result of a collaborative design process with farmers in or near the Norfolk county. Digging Deeper is a service that aims to create more community involvement and awareness around farming through a scavenger hunt program where participants gather ingredients from around the farm and then use those ingredients to cook a farm fresh recipe at home. The goal of the service is to increase awareness about where our food comes from and to promote healthy eating in the community, something that was valued highly by many of the farmers we spoke to. In addition to the poster explaining the service, you can view the [requirements chart](https://github.com/prava-d/portfolio/blob/main/Reports/Requirements_Chart_Final.pdf) and the [personal interaction map](https://github.com/prava-d/portfolio/blob/main/Reports/Personal_int_map.pdf).
 
 ### Varied Python Projects
 
-GeneFinder - https://github.com/prava-d/GeneFinder
-Computational Art - https://github.com/prava-d/ComputationalArt
-Text Mining - https://github.com/prava-d/TextMining
-Interactive Programming - https://github.com/prava-d/InteractiveProgramming
+While not one concrete project, I have compiled some of my minor yet interesting pieces of Python code. [GeneFinder](https://github.com/prava-d/GeneFinder) is a script that takes long sequences of DNA as strings and returns the amino acid sequences which are most likely encoded by that DNA. [ComputationalArt](https://github.com/prava-d/ComputationalArt) generates random art based on recursive computations of elementary functions. [TextMining](https://github.com/prava-d/TextMining) analyzed inaugural speeches of US presidents to display a word cloud of the most common words used. [InteractiveProgramming](https://github.com/prava-d/InteractiveProgramming) displayed the 2016 presidential candidates and their sentiment towards each other based on views expressed in their tweets.
 
 ### Varied Neato Projects
 
@@ -78,9 +72,7 @@ The Gauntlet - https://github.com/prava-d/portfolio/blob/main/Reports/Gauntlet_W
 
 ### Varied Multidisciplinary Projects
 
-Bike Light - https://github.com/prava-d/portfolio/blob/main/Reports/Bikelight_Lab.pdf
-3D Scanner - https://github.com/prava-d/portfolio/blob/main/Reports/3D_Scanner_Lab.pdf
-Line Following - https://github.com/prava-d/portfolio/blob/main/Reports/Section1%2CLab3-Meaghen%26Prava.pdf
+The following are a series of projects that involved integration of software, electrical, and mechanical subsystems. A partner and I created a scaled-down [bike light](https://github.com/prava-d/portfolio/blob/main/Reports/Bikelight_Lab.pdf) which involved circuit design and coding an Arduino. Another partner and I designed and coded a [3D scanner](https://github.com/prava-d/portfolio/blob/main/Reports/3D_Scanner_Lab.pdf) using IR sensors, in Arduino C and Python. Lastly, a partner and I created a [line-following robot](https://github.com/prava-d/portfolio/blob/main/Reports/Section1%2CLab3-Meaghen%26Prava.pdf) that would follow a black line on the ground using bang bang control and IR sensors.
 
 ### Varied Data Science Projects
 
