@@ -25,7 +25,7 @@ I assisted Professor Siddhartan Govindasamy in visible light communications rese
 
 ## Varied STEM Education Roles
 
-In addition to my experiences as a teacher in student-led classes, I have also served as a teaching assistant in various electrical engineering and software engineering classes, including: Introduction to Sensors, Instrumentation, and Measurement (2017), Qualitative Engineering Analysis I and II - a class that combined linear algebra, multivariable calculus, signals and systems, mechanics, and dynamics (2018), Machine Learning (2019), and Software Systems (2020).
+In addition to my experiences as a teacher in student-led classes, I have also served as a teaching assistant in various electrical engineering and software engineering classes, including: Introduction to Sensors, Instrumentation, and Measurement (2017), Quanitative Engineering Analysis I and II - a class that combined linear algebra, multivariable calculus, signals and systems, mechanics, and dynamics (2018), Machine Learning (2019), and Software Systems (2020).
 
 I also occasionally participated in **[IgniteCS at Olin](http://olin-ignitecs.github.io/about.html)**, which is a Google-sponsered program to bring STEM education to disadvantaged students within or close to the Norfolk district.
 
