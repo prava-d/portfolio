@@ -26,7 +26,7 @@ As part of my Technology, Accessibility, and Design class, I was able to help it
 
 ## Convolutional Codes
 
-Four our discrete mathematics final, a team of students and I created a convolutional code encoder and decoder (the decoder using the viterbi algorithm) in Python. You can view the report **[here](https://github.com/prava-d/portfolio/blob/main/Reports/Report%20and%20Bibliography.pdf)** and the encoder/decoder code **[here](https://github.com/prava-d/Convolutional-Codes)**.
+For our discrete mathematics final, a team of students and I created a convolutional code encoder and decoder (the decoder using the viterbi algorithm) in Python. You can view the report **[here](https://github.com/prava-d/portfolio/blob/main/Reports/Report%20and%20Bibliography.pdf)** and the encoder/decoder code **[here](https://github.com/prava-d/Convolutional-Codes)**.
 
 ## ScreamGame
 
