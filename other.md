@@ -20,18 +20,19 @@ My main involvement in the robotics lab was a team working on autonomous submers
 
 ## OARS
 
-I was a lead for the **[OARS](https://meet.olin.edu/olin-isms/olin-aquatic-robot-systems-oars)** project team at Olin for the electrical subteam, but I also occasionally helped OARS leadership and the software subteam with their tasks.
+I was a lead for the **[OARS](https://meet.olin.edu/olin-isms/olin-aquatic-robot-systems-oars)** project team at Olin for the electrical subteam, fixing the electrical subsystem of the 'rescue' boat, wiring and writing firmware control code for the submersible's water and temperature sensors, and communicating with the Jetson to control servos. I also helped OARS leadership and the software subteam with their tasks.
 
 ## Visible Light Communication Research
 
 I assisted Professor Siddhartan Govindasamy in visible light communications research, utilizing various electrical (firmware, communications) and software skills (modeling, algorithms). This research aided the publication of two papers: **_[An Integrated Visible-Light and Radio Frequency Communications System](https://ieeexplore.ieee.org/document/8862074)_** and **_[An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System](https://ieeexplore.ieee.org/document/9217371)_**.
 
-
-## Varied STEM Education Roles
+## Teaching Assistant
 
 In addition to my experiences as a teacher in student-led classes, I have also served as a teaching assistant in various electrical engineering and software engineering classes, including: Introduction to Sensors, Instrumentation, and Measurement (2017), Quanitative Engineering Analysis I and II - a class that combined linear algebra, multivariable calculus, signals and systems, mechanics, and dynamics (2018), Machine Learning (2019), and Software Systems (2020).
 
-I also occasionally participated in **[IgniteCS at Olin](http://olin-ignitecs.github.io/about.html)**, which is a Google-sponsered program to bring STEM education to disadvantaged students within or close to the Norfolk district.
+## IgniteCS
+
+I occasionally participated in **[IgniteCS at Olin](http://olin-ignitecs.github.io/about.html)**, which is a Google-sponsered program to bring STEM education to disadvantaged students within or close to the Norfolk district.
 
 ## RamsayRating
 
