@@ -1,4 +1,4 @@
-Hello! I graduated Olin College of Engineering in 2020 with a B.S. in Electrical and Computer Engineering (with a specific focus in software engineering). I keep the most up-to-date information about my projects here, but you can also refer to my **[resume](https://github.com/prava-d/portfolio/blob/main/Prava2020Resume.pdf)** and **[LinkedIn](www.linkedin.com/in/prava)**.
+Hello! I graduated Olin College of Engineering in 2020 with a B.S. in Electrical and Computer Engineering (with a specific focus in software engineering). I keep the most up-to-date information about my projects here, but you can also refer to my **[resume](https://github.com/prava-d/portfolio/blob/main/Prava2020Resume.pdf)** and **[LinkedIn](https://www.linkedin.com/in/prava)**.
 
 --------------------------------
 
