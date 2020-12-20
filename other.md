@@ -42,9 +42,9 @@ During HackHarvard 2017, three of my peers and I created a humorous program dubb
 
 I was able to compete in the **[Google Tech Challenge](https://buildyourfuture.withgoogle.com/events/tech-challenge/)**, which is a competition that includes various puzzle and coding challenges catered towards computer science and engineering college students. For two years (2018 and 2019), I was able to participate with four other peers and place 3rd and 1st, respectively.
 
-## Varied RoboLab Research
+## RoboLab Research
 
-Other than ORCAS, I was also briefly involved in **[Edwin](https://github.com/olinrobotics/hiro)** and **[Lavabot](https://github.com/olinrobotics/Lavabot)**. The former specializes in research in the human-robot interaction field and the latter 
+Other than ORCAS, I was also briefly involved in **[Edwin](https://github.com/olinrobotics/hiro)** and **[Lavabot](https://github.com/olinrobotics/Lavabot)**. The former specializes in research in the human-robot interaction field and the latter with robotics that traverse dangerous conditions to retrieve samples.
 
 ## Brain-Computer Interfacing Research
 
